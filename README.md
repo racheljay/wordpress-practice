@@ -1,3 +1,3 @@
-# wordperss-practice
+# wordpress-practice
 
-## A sandbox for playing with wordpress
+ A sandbox for playing with wordpress
